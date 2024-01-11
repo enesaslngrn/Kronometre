@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="backgroundcolor">#FF000000</color>
+    <color name="buttonBackgroundPurple">#6F2A7A</color>
+    <color name="buttonBackgroundSolukGri">#E2242323</color>
+    <color name="buttonBackgroundAcikGri">#FD494747</color>
+    <color name="buttonBackgroundKoyuMor">#B2511A5A</color>
+    <color name="buttonBackgroundKirmizi">#5A180F</color>
+
+
+</resources>
